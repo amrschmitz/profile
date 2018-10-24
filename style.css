@@ -6,7 +6,7 @@ body {
   line-height: 1.6em;
 }
 
-h1, h2, h3 {
+h1 {
   font-family: 'Montserrat', Arial, sans-serif;
 }
 
@@ -17,12 +17,17 @@ h1 {
 p {
   font-size: 15px;
   margin: 25px 0px;
-  padding: 0px 70px;
+  padding: 0px 30px;
 }
 
 a {
   color: #338DEC;
   text-decoration: none;
+}
+
+.icon {
+  margin-right: 30px;
+  margin-left: 30px;
 }
 
 .container {
