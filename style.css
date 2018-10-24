@@ -17,6 +17,7 @@ h1 {
 p {
   font-size: 15px;
   margin: 25px 0px;
+  padding: 0px 70px;
 }
 
 a {
@@ -81,8 +82,10 @@ li {
 /*Carte de présentation*/
 
 #profile_pic {
-  width: 300px;
+  width: 150px;
   margin: 0 auto;
+  border-radius: 50%;
+  padding-top: 20px;
 }
 
 i {
