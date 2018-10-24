@@ -35,22 +35,18 @@ a {
   margin: 0 auto;
 }
 
-@media (max-width: 960px) {
-  .container {
-    width: 700px;
-    margin: 0 auto;
+@media (max-width: 800px) {
+  * {
+    margin: 0;
   }
-}
-@media (max-width: 720px) {
   .container {
-    width: 500px;
+    width: 100vw;
     margin: 0 auto;
+    padding: 0;
   }
-}
-@media (max-width: 540px) {
-  .container {
-    width: 300px;
-    margin: 0 auto;
+  .card {
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
   }
 }
 
