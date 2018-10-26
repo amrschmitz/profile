@@ -8,10 +8,8 @@ body {
 
 h1 {
   font-family: 'Montserrat', Arial, sans-serif;
-}
-
-h1 {
   color: #4A4A4A;
+  line-height: 1.2em;
 }
 
 p {
@@ -36,11 +34,9 @@ a {
 }
 
 @media (max-width: 800px) {
-  * {
-    margin: 0;
-  }
+
   .container {
-    width: 100vw;
+    width: 90vw;
     margin: 0 auto;
     padding: 0;
   }
