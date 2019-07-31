@@ -83,6 +83,7 @@ li {
 #profile_pic {
   width: 300px;
   margin: 0 auto;
+  border-radius: 50%;
 }
 
 i {
